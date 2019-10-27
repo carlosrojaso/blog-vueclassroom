@@ -225,4 +225,6 @@ y ya con esto estamos listos.
 
 <amp-img width="1134" height="460" layout="responsive" src="https://firebasestorage.googleapis.com/v0/b/vueclassroom.appspot.com/o/2018-12-22-vue-router%2Fvue-router-final.gif?alt=media&token=171f2206-a513-457d-a293-68167e24145f"></amp-img>
 
-Eso es todo por ahora y espero que sea de ayuda :)
+Si este contenido te parece útil y me quieres ayudar a hacer mas, considera apoyarme en [Patreon](https://www.patreon.com/carlosrojas_o).
+
+Bueno eso es todo por ahora. Espero sea de utilidad :)

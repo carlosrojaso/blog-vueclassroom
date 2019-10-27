@@ -157,4 +157,6 @@ notese que hemos utilizado la directiva `v-for` la cual nos va a permitir facilm
 
 <amp-img width="960" height="600" layout="responsive" src="https://firebasestorage.googleapis.com/v0/b/vueclassroom.appspot.com/o/2018-12-20-vue-firebase%2Fdemofinal.png?alt=media&token=39f274ec-3c94-41b5-9ffe-3ffb66dc69a0"></amp-img>
 
-Eso es todo por ahora y espero que sea de ayuda :)
+Si este contenido te parece útil y me quieres ayudar a hacer mas, considera apoyarme en [Patreon](https://www.patreon.com/carlosrojas_o).
+
+Bueno eso es todo por ahora. Espero sea de utilidad :)

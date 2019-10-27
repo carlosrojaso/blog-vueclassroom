@@ -126,4 +126,6 @@ for(const prop of  Object.keys(data)) {
 
 <amp-img width="773" height="316" layout="responsive" src="https://firebasestorage.googleapis.com/v0/b/vueclassroom.appspot.com/o/2019-01-28-Iterables-Looping%2FScreen%20Shot%202019-01-29%20at%204.20.28%20PM.png?alt=media&token=6c47f288-d4c9-4428-a08b-86c380aa95fb"></amp-img>
 
-Bueno espero que sea de utilidad. Hasta un proximo post :)
+Si este contenido te parece útil y me quieres ayudar a hacer mas, considera apoyarme en [Patreon](https://www.patreon.com/carlosrojas_o).
+
+Bueno eso es todo por ahora. Espero sea de utilidad :)

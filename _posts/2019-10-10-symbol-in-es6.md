@@ -75,6 +75,6 @@ const operators = {
 
 Ahora con algo asi podria asegurarme que solo al utilizar los botones identificados con esos botones pueden hacer esas operaciones en lugar de enviarle un `string` que podria estar presente o confundirse en cualquier parte de nuestro codigo.
 
-Si este contenido te parece útil y me quieres ayudar a hacer mas considera apoyarme en [Patreon](https://www.patreon.com/carlosrojas_o).
+Si este contenido te parece útil y me quieres ayudar a hacer mas, considera apoyarme en [Patreon](https://www.patreon.com/carlosrojas_o).
 
 Bueno eso es todo por ahora. Espero sea de utilidad :)

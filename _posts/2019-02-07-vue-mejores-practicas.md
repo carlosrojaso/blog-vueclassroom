@@ -118,5 +118,6 @@ this.games.map(function (game) {
 
 Lo cual cambia el orden de complejidad.
 
+Si este contenido te parece útil y me quieres ayudar a hacer mas, considera apoyarme en [Patreon](https://www.patreon.com/carlosrojas_o).
 
-Bueno esto es todo por ahora y espero que sea de ayuda :)
+Bueno eso es todo por ahora. Espero sea de utilidad :)

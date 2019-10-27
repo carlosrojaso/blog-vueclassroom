@@ -176,4 +176,6 @@ console.log(valorUno); // 20
 console.log(valorDos); // 10
 ```
 
-Bueno esto es todo por ahora, espero sea de utilidad y hasta un proximo Post :)
+Si este contenido te parece útil y me quieres ayudar a hacer mas, considera apoyarme en [Patreon](https://www.patreon.com/carlosrojas_o).
+
+Bueno eso es todo por ahora. Espero sea de utilidad :)
