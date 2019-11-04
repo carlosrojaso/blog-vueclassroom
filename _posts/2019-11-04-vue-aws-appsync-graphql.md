@@ -233,10 +233,11 @@ y pasamos a ejecutar la conexión del SDK con nuestro proyecto.
 amplify add codegen --apiId zk4sm6xxxxxxxx
 ```
 
-donde `zk4sm6xxxxxxxx` es el identificador del API que creaste en appsync.
+donde `zk4sm6xxxxxxxx` es el API Key que te genera Appsyn y lo obtienes entrando en tu API.
 
 <amp-img width="161" height="353" layout="fixed" src="https://firebasestorage.googleapis.com/v0/b/vueclassroom.appspot.com/o/2019-11-04-vue-aws-appsync-graphql%2FScreen%20Shot%202019-11-04%20at%204.11.12%20PM.png?alt=media&token=a311b5ef-b3f9-409e-b6ce-c0e2d2b2ae20"></amp-img>
 
+y dirigiendote a `Integrate with your app`.
 
 Con esto el `CLI` nos ha creado todo lo necesario en nuestro proyecto de Vue y nos ha generado los archivos `graphql` que podremos utilizar despues.
 
